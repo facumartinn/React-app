@@ -1,0 +1,17 @@
+* {
+    color: #1d1d1d;
+}
+
+ul {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    list-style-type:none;
+}
+li a {
+     text-decoration: none;
+}
+.title, p {
+    display: flex;
+    justify-content: center;
+}
